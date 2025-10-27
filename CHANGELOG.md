@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [1.5.0] - 2025-10-28
+* [#7](https://github.com/yadavgaurav251/backlog-notifier/pull/7): Merge pull request #7 from Blackjacx/dependabot/npm_and_yarn/actions/core-1.9.1 - [@Stefan Herold](https://github.com/Stefan Herold)
+* [#6](https://github.com/yadavgaurav251/backlog-notifier/pull/6): Merge pull request #6 from Blackjacx/dependabot/npm_and_yarn/node-fetch-2.6.7 - [@Stefan Herold](https://github.com/Stefan Herold)
+* [#5](https://github.com/yadavgaurav251/backlog-notifier/pull/5): Merge pull request #5 from Blackjacx/multiple-notifier-references - [@Stefan Herold](https://github.com/Stefan Herold)
+* [#3](https://github.com/yadavgaurav251/backlog-notifier/pull/3): Merge pull request #3 from Blackjacx/dependabot/npm_and_yarn/node-fetch-2.6.1 - [@Stefan Herold](https://github.com/Stefan Herold)
+
+
 ## [1.4.0] - 2023-10-19
 * [#31](https://github.com/Blackjacx/backlog-notifier/pull/31): Exclude changelog entries not matching PR reference - [@Blackjacx](https://github.com/blackjacx).
 * [#29](https://github.com/Blackjacx/backlog-notifier/pull/29): Add New Function to Move Referenced Issue - [@Blackjacx](https://github.com/blackjacx).
